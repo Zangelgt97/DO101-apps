@@ -7,7 +7,9 @@ app.get('/', function (req, res) {
 app.get('/mars', function(req, res) { 
   res.send('Hello Marzooooooo hola como estas !\n');
   });
-
+app.get('/martes', function(req, res) { 
+  res.send('Hello Marzooooooo hola como estas !\n');
+  });
 app.listen(8080, function () {
   console.log('Example app listening on port 8080!');
 });
