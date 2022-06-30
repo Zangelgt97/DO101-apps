@@ -1,4 +1,4 @@
-console.log("Hello World COMO eSTÁS LOQUITO MANIATICO\n");
+console.log("Hello WorlD HOLZ \n");
 
 
 
